@@ -2,7 +2,7 @@
 
 # Yathish Suresh
 
-**Software Engineer · AI / ML / Data Science**
+**Software Engineer · AI / ML / Data Science**<br>
 Edge AI · Computer Vision · Embedded Systems · LLM Agents
 
 I build ML that runs on hardware people actually ship — CNN anomaly detection on Raspberry Pi,
@@ -50,18 +50,26 @@ MS Data Science, University of Maryland · Published in iJRASET
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats-seven-rouge-96.vercel.app/api?username=yathish-debug&show_icons=true"
+    src="https://github-readme-stats-seven-rouge-96.vercel.app/api?username=yathish-debug&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     alt="Yathish's GitHub stats"
     height="180"
   />
   <img
-    src="https://github-readme-stats-seven-rouge-96.vercel.app/api/top-langs/?username=yathish-debug&layout=compact"
+    src="https://github-readme-stats-seven-rouge-96.vercel.app/api/top-langs/?username=yathish-debug&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Yathish's top languages"
     height="180"
+  />
+</p>
+
+<!-- Streak card. Delete this <p> block if you'd rather not show it. -->
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=yathish-debug&theme=tokyonight&hide_border=true"
+    alt="Yathish's contribution streak"
   />
 </p>
 
@@ -79,7 +87,7 @@ MS Data Science, University of Maryland · Published in iJRASET
 
 <div align="center">
 
-**Currently:** sharpening DSA, shipping agent infrastructure with real audit guarantees.
+**Currently:** sharpening DSA, shipping agent infrastructure with real audit guarantees.<br>
 **Open to:** Edge AI, computer vision, robotics, and applied LLM roles.
 
 </div>
