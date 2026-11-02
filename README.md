@@ -50,18 +50,20 @@ MS Data Science, University of Maryland · Published in iJRASET
 
 ---
 
-## 📊 Stats
+<h2 align="center">GitHub Stats</h2>
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yathish-debug&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yathish-debug&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<img src="https://streak-stats.demolab.com?user=yathish-debug&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=yathish-debug&theme=tokyonight&no-frame=true&column=7&margin-w=5" />
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats-seven-rouge-96.vercel.app/api?username=yathish-debug&show_icons=true"
+    alt="Yathish's GitHub stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats-seven-rouge-96.vercel.app/api/top-langs/?username=yathish-debug&layout=compact"
+    alt="Yathish's top languages"
+    height="180"
+  />
+</p>
 
 ---
 
