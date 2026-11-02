@@ -2,7 +2,8 @@
 
 # Yathish Suresh
 
-**Software Engineering . AI . ML . DATA Science . Edge AI · Computer Vision · Embedded Systems · LLM Agents**
+**Software Engineer · AI / ML / Data Science**
+Edge AI · Computer Vision · Embedded Systems · LLM Agents
 
 I build ML that runs on hardware people actually ship — CNN anomaly detection on Raspberry Pi,
 ESP32 firmware in C/C++, YOLOv8 pipelines on AWS — and lately, LLM agents with audit trails.
